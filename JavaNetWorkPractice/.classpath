@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-iri-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-dboe-trans-data-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-dboe-transaction-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-dboe-index-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-dboe-base-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-core-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-cmds-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-base-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-arq-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jackson-databind-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jackson-core-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/httpclient-cache-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/commons-csv-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/commons-compress-1.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/collection-0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/libthrift-0.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jsonld-java-0.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-tdb-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-tdb2-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-shaded-guava-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-arq-3.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-rdfconnection-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-tdb-3.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-rdfconnection-3.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-core-3.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jena-cmds-3.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/lingpipe-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/morfologik-fsa-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jersey-server-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jersey-media-json-jackson-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jersey-media-jaxb-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jersey-guava-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jersey-entity-filtering-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jersey-container-grizzly2-http-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jersey-common-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jersey-client-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/javax.inject-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jackson-module-jaxb-annotations-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jackson-jaxrs-json-provider-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jackson-jaxrs-base-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jackson-databind-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jackson-core-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/jackson-annotations-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/hppc-0.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/hk2-utils-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/hk2-locator-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/hk2-api-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/grizzly-http-server-2.3.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/grizzly-http-2.3.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/grizzly-framework-2.3.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/aopalliance-repackaged-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/opennlp-uima-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/opennlp-tools-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/opennlp-morfologik-addon-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/opennlp-brat-annotator-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/morfologik-tools-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/morfologik-stemming-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zookeeper/Downloads/morfologik-fsa-builders-2.1.3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
